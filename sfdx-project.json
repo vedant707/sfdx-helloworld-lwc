@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://resourceful-fox-4s4tgw-dev-ed.my.salesforce.com",
+  "sourceApiVersion": "50.0"
+}
